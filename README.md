@@ -7,7 +7,9 @@ Initial jupyter notebook have the basic model and the other 3 jupyter files have
 A deatiled Report has been attached explaining every step related to the process.
 In the third attemp an accuracy of 78% has been achieved.
 
-References
+References:
+stack overflow
+
 IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
 
 
